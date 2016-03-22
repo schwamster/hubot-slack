@@ -1,6 +1,6 @@
 {
   "name": "hubot-winslack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Slack adapter for hubot",
   "main": "./index",
   "scripts": {
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/slackhq/hubot-slack.git"
+    "url": "https://github.com/schwamster/hubot-slack"
   },
   "bugs": {
-    "url": "https://github.com/slackhq/hubot-slack/issues"
+    "url": "https://github.com/schwamster/hubot-slack/issues"
   },
   "dependencies": {
     "slack-client": "~1.5.1"
