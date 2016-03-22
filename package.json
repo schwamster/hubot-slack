@@ -1,6 +1,6 @@
 {
-  "name": "hubot-slack",
-  "version": "3.4.2",
+  "name": "hubot-winslack",
+  "version": "1.0.0",
   "description": "A Slack adapter for hubot",
   "main": "./index",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/slackhq/hubot-slack/issues"
   },
   "dependencies": {
-    "slack-client": "~1.4.0"
+    "slack-client": "~1.5.1"
   },
   "devDependencies": {
     "coffee-script": "~1.7.1",
